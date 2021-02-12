@@ -1,0 +1,10 @@
+{
+  "name": "htmljquery-dance",
+  "version": "1.0.0",
+  "description": "htmljquery-dance",
+  "scripts":{
+    "start": "npx live-server"
+  },
+  "author": "Cindy Liu",
+  "license": "UNLICENSED"
+}
